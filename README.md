@@ -9,19 +9,19 @@ My Open source project contributions
 - [MotionBook](https://github.com/younatics/MotionBook) 🌟 1,173 Stars, 1 commit 
 - [Device](https://github.com/Ekhoo/Device) 🌟 1,135 Stars, 7 commits
 - [LiquidLoader](https://github.com/yoavlt/LiquidLoader) 🌟 1,102 Stars, 1 commit
-- [RxTodo](https://github.com/devxoul/RxTodo) 🌟4 commits
+- [RxTodo](https://github.com/devxoul/RxTodo) 🌟 981 Stars, 4 commits
 - [GSMessages](https://github.com/wxxsw/GSMessages) 🌟 349 Stars, 3 commits 
 - [Passcode](https://github.com/cruisediary/Passcode) 🌟 215 Stars, 15 commits
 - [SwiftVideoBackground](https://github.com/dingwilson/SwiftVideoBackground) 🌟 172 Stars, 1 commit
 - [When](https://github.com/vadymmarkov/When) 🌟 162 Stars, 2 commits
 - [SwipyCell](https://github.com/moritzsternemann/SwipyCell) 🌟154 Stars, 1 commit
 - [iOSDevLinks](https://github.com/giftbott/iOSDevLinks) 🌟 144 Stars, 6 commits 
+- [RxValidator](https://github.com/vbmania/RxValidator) 🌟 118 Stars, 4 commits
 - [Deli](https://github.com/kawoou/Deli) 🌟 94 Stars, 2 commits
 - [DeviceLayout](https://github.com/cruisediary/DeviceLayout) 🌟 88 Stars, 48 commits
 - [swift-style-guide](https://github.com/StyleShare/swift-style-guide) 🌟 77 Stars, 1 commit
 - [Instagram](https://github.com/cruisediary/Instagram) 🌟 18 Stars, 49 commits 
 - [CRTimePicker](https://github.com/cruisediary/CRTimePicker) 🌟 18 Stars, 9 commits
-- [RxValidator](https://github.com/vbmania/RxValidator) 🌟 118 Stars, 4 commits
 - [apple-mango](https://github.com/legshort/apple-mango) 🌟 16 Stars, 1 commit
 - [RxModalityStack](https://github.com/yoonhg84/RxModalityStack) 🌟 15 Stars, 1 commit
 
