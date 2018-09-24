@@ -2,7 +2,6 @@
 My Open source project contributions
 
 - [awesome-swift](https://github.com/matteocrippa/awesome-swift/graphs/contributors) 🌟 15,572 Stars, 6 commits
-- [SkyFloatingLabelTextField](https://github.com/Skyscanner/SkyFloatingLabelTextField) 🌟 2,826 Stars, 1 commit
 - [Pastel](https://github.com/cruisediary/Pastel) 🌟2,729 Stars, 79 commits
 - [PinterestSwift](https://github.com/demonnico/PinterestSwift) 🌟 1,740 Stars, 2 commits
 - [SDCAlertView](https://github.com/sberrevoets/SDCAlertView) 🌟 1,543 Stars, 1 commit
@@ -27,6 +26,7 @@ My Open source project contributions
 
 Waiting for PR
 - [SnapKit](https://github.com/SnapKit/SnapKit) 🌟 13,520 Stars, 2 commits
+- [SkyFloatingLabelTextField](https://github.com/Skyscanner/SkyFloatingLabelTextField) 🌟 2,826 Stars, 1 commit
 - [ActiveLabel](https://github.com/optonaut/ActiveLabel.swift) 🌟 2,585 Stars, 1 commit
 - [FlagKit](https://github.com/madebybowtie/FlagKit) 🌟2,150 Stars, 2 commits
 - [RxMediaPicker](https://github.com/RxSwiftCommunity/RxMediaPicker) 🌟 119 Stars, 2 commits
