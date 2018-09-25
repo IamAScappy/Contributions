@@ -1,4 +1,7 @@
 # Contributions
+
+![logo](README/contributions.png)
+
 My Open source project contributions
 
 - [awesome-swift](https://github.com/matteocrippa/awesome-swift/graphs/contributors) 🌟 15,572 Stars, 6 commits
