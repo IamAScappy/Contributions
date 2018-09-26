@@ -18,6 +18,7 @@ My Open source project contributions
 - [When](https://github.com/vadymmarkov/When) 🌟 162 Stars, 2 commits
 - [SwipyCell](https://github.com/moritzsternemann/SwipyCell) 🌟154 Stars, 1 commit
 - [iOSDevLinks](https://github.com/giftbott/iOSDevLinks) 🌟 144 Stars, 6 commits 
+- [RxNimble](https://github.com/RxSwiftCommunity/RxNimble) 🌟 123 Stars, 5 commits
 - [RxValidator](https://github.com/vbmania/RxValidator) 🌟 118 Stars, 4 commits
 - [Deli](https://github.com/kawoou/Deli) 🌟 94 Stars, 2 commits
 - [DeviceLayout](https://github.com/cruisediary/DeviceLayout) 🌟 88 Stars, 48 commits
