@@ -1,4 +1,3 @@
-# Contributions
 
 ![logo](README/contributions.png)
 
