@@ -22,7 +22,7 @@ My Open source project contributions
 - [iOSDevLinks](https://github.com/giftbott/iOSDevLinks) 🌟 144 Stars, 6 commits 
 - [RxNimble](https://github.com/RxSwiftCommunity/RxNimble) 🌟 123 Stars, 5 commits
 - [RxValidator](https://github.com/vbmania/RxValidator) 🌟 118 Stars, 4 commits
-- [Deli](https://github.com/kawoou/Deli) 🌟 94 Stars, 2 commits
+- [Deli](https://github.com/kawoou/Deli) 🌟 94 Stars, 3 commits
 - [DeviceLayout](https://github.com/cruisediary/DeviceLayout) 🌟 88 Stars, 48 commits
 - [swift-style-guide](https://github.com/StyleShare/swift-style-guide) 🌟 77 Stars, 1 commit
 - [Instagram](https://github.com/cruisediary/Instagram) 🌟 18 Stars, 49 commits 
