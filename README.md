@@ -25,6 +25,7 @@ My Open source project contributions
 - [Deli](https://github.com/kawoou/Deli) 🌟 94 Stars, 3 commits
 - [DeviceLayout](https://github.com/cruisediary/DeviceLayout) 🌟 88 Stars, 48 commits
 - [swift-style-guide](https://github.com/StyleShare/swift-style-guide) 🌟 77 Stars, 1 commit
+- [Gradients](https://github.com/cruisediary/Gradients) 🌟 69 Stars, 15 commits
 - [Instagram](https://github.com/cruisediary/Instagram) 🌟 18 Stars, 49 commits 
 - [CRTimePicker](https://github.com/cruisediary/CRTimePicker) 🌟 18 Stars, 9 commits
 - [apple-mango](https://github.com/legshort/apple-mango) 🌟 16 Stars, 1 commit
