@@ -4,6 +4,7 @@
 My Open source project contributions
 
 - [awesome-swift](https://github.com/matteocrippa/awesome-swift/graphs/contributors) 🌟 15,572 Stars, 6 commits
+- [Cocoapods/Specs](https://github.com/CocoaPods/Specs) 🌟 4,725 Stars, 20 commits
 - [SkyFloatingLabelTextField](https://github.com/Skyscanner/SkyFloatingLabelTextField) 🌟 2,853 Stars, 1 commit
 - [Pastel](https://github.com/cruisediary/Pastel) 🌟2,729 Stars, 79 commits
 - [ActiveLabel](https://github.com/optonaut/ActiveLabel.swift) 🌟 2,585 Stars, 1 commit
