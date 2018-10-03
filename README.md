@@ -17,6 +17,7 @@ My Open source project contributions
 - [RxSwiftCommunity/Action](RxSwiftCommunity/Action) 🌟 535 Stars, 6 commits
 - [wxxsw/GSMessages](https://github.com/wxxsw/GSMessages) 🌟 349 Stars, 3 commits 
 - [cruisediary/Passcode](https://github.com/cruisediary/Passcode) 🌟 215 Stars, 15 commits
+- [cruisediary/Gradients](https://github.com/cruisediary/Gradients) 🌟 181 Stars, 21 commits
 - [dingwilson/SwiftVideoBackground](https://github.com/dingwilson/SwiftVideoBackground) 🌟 172 Stars, 1 commit
 - [vadymmarkov/When](https://github.com/vadymmarkov/When) 🌟 162 Stars, 2 commits
 - [moritzsternemann/SwipyCell](https://github.com/moritzsternemann/SwipyCell) 🌟154 Stars, 1 commit
@@ -26,7 +27,6 @@ My Open source project contributions
 - [kawoou/Deli](https://github.com/kawoou/Deli) 🌟 94 Stars, 3 commits
 - [cruisediary/DeviceLayout](https://github.com/cruisediary/DeviceLayout) 🌟 88 Stars, 48 commits
 - [StyleShare/swift-style-guide](https://github.com/StyleShare/swift-style-guide) 🌟 77 Stars, 1 commit
-- [cruisediary/Gradients](https://github.com/cruisediary/Gradients) 🌟 69 Stars, 15 commits
 - [cruisediary/Instagram](https://github.com/cruisediary/Instagram) 🌟 18 Stars, 49 commits 
 - [cruisediary/CRTimePicker](https://github.com/cruisediary/CRTimePicker) 🌟 18 Stars, 9 commits
 - [legshort/apple-mango](https://github.com/legshort/apple-mango) 🌟 16 Stars, 1 commit
