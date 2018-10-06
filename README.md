@@ -16,8 +16,8 @@ My Open source project contributions
 - [devxoul/RxTodo](https://github.com/devxoul/RxTodo) 🌟 981 Stars, 4 commits
 - [RxSwiftCommunity/Action](RxSwiftCommunity/Action) 🌟 535 Stars, 6 commits
 - [wxxsw/GSMessages](https://github.com/wxxsw/GSMessages) 🌟 349 Stars, 3 commits 
+- [cruisediary/Gradients](https://github.com/cruisediary/Gradients) 🌟 249 Stars, 24 commits
 - [cruisediary/Passcode](https://github.com/cruisediary/Passcode) 🌟 215 Stars, 15 commits
-- [cruisediary/Gradients](https://github.com/cruisediary/Gradients) 🌟 181 Stars, 21 commits
 - [dingwilson/SwiftVideoBackground](https://github.com/dingwilson/SwiftVideoBackground) 🌟 172 Stars, 1 commit
 - [vadymmarkov/When](https://github.com/vadymmarkov/When) 🌟 162 Stars, 2 commits
 - [moritzsternemann/SwipyCell](https://github.com/moritzsternemann/SwipyCell) 🌟154 Stars, 1 commit
