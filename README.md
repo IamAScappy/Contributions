@@ -4,7 +4,7 @@
 My Open source project contributions
 
 - [matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift) ![Github stars](https://img.shields.io/github/stars/matteocrippa/awesome-swift.svg?style=social&label=Stars), 6 commits
-- [Cocoapods/Specs](https://github.com/CocoaPods/Specs) ![Github stars](https://img.shields.io/github/stars/CocoaPods/Specs.svg?style=social&label=Stars) 20 commits
+- [Cocoapods/Specs](https://github.com/CocoaPods/Specs) ![Github stars](https://img.shields.io/github/stars/CocoaPods/Specs.svg?style=social&label=Stars) 22 commits
 - [Skyscanner/SkyFloatingLabelTextField](https://github.com/Skyscanner/SkyFloatingLabelTextField) ![Github stars](https://img.shields.io/github/stars/Skyscanner/SkyFloatingLabelTextField.svg?style=social&label=Stars) 1 commit
 - [cruisediary/Pastel](https://github.com/cruisediary/Pastel) ![Github stars](https://img.shields.io/github/stars/cruisediary/Pastel.svg?style=social&label=Stars) 79 commits
 - [optonaut/ActiveLabel](https://github.com/optonaut/ActiveLabel.swift) ![Github stars](https://img.shields.io/github/stars/optonaut/ActiveLabel.swift.svg?style=social&label=Stars) 1 commit
