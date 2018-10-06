@@ -23,7 +23,7 @@ My Open source project contributions
 - [moritzsternemann/SwipyCell](https://github.com/moritzsternemann/SwipyCell) ![Github stars](https://img.shields.io/github/stars/moritzsternemann/SwipyCell.svg?style=social&label=Stars) 1 commit
 - [giftbott/iOSDevLinks](https://github.com/giftbott/iOSDevLinks) ![Github stars](https://img.shields.io/github/stars/giftbott/iOSDevLinks.svg?style=social&label=Stars) 6 commits 
 - [RxSwiftCommunity/RxNimble](https://github.com/RxSwiftCommunity/RxNimble) ![Github stars](https://img.shields.io/github/stars/RxSwiftCommunity/RxNimble.svg?style=social&label=Stars) 5 commits
-- [RxSwiftCommunity/RxMediaPicker](https://github.com/RxSwiftCommunity/RxMediaPicker) ![Github stars](https://img.shields.io/github/stars/RxSwiftCommunity/RxMediaPicker.svg?style=social&label=Stars) 2 commits
+- [RxSwiftCommunity/RxMediaPicker](https://github.com/RxSwiftCommunity/RxMediaPicker) ![Github stars](https://img.shields.io/github/stars/RxSwiftCommunity/RxMediaPicker.svg?style=social&label=Stars) 6 commits
 - [vbmania/RxValidator](https://github.com/vbmania/RxValidator) ![Github stars](https://img.shields.io/github/stars/vbmania/RxValidator.svg?style=social&label=Stars) 4 commits
 - [kawoou/Deli](https://github.com/kawoou/Deli) ![Github stars](https://img.shields.io/github/stars/kawoou/Deli.svg?style=social&label=Stars) 3 commits
 - [cruisediary/DeviceLayout](https://github.com/cruisediary/DeviceLayout) ![Github stars](https://img.shields.io/github/stars/cruisediary/DeviceLayout.svg?style=social&label=Stars) 51 commits
