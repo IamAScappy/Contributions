@@ -23,6 +23,7 @@ My Open source project contributions
 - [moritzsternemann/SwipyCell](https://github.com/moritzsternemann/SwipyCell) 🌟154 Stars, 1 commit
 - [giftbott/iOSDevLinks](https://github.com/giftbott/iOSDevLinks) 🌟 144 Stars, 6 commits 
 - [RxSwiftCommunity/RxNimble](https://github.com/RxSwiftCommunity/RxNimble) 🌟 123 Stars, 5 commits
+- [RxSwiftCommunityRxMediaPicker](https://github.com/RxSwiftCommunity/RxMediaPicker) 🌟 120 Stars, 2 commits
 - [vbmania/RxValidator](https://github.com/vbmania/RxValidator) 🌟 118 Stars, 4 commits
 - [kawoou/Deli](https://github.com/kawoou/Deli) 🌟 94 Stars, 3 commits
 - [cruisediary/DeviceLayout](https://github.com/cruisediary/DeviceLayout) 🌟 88 Stars, 48 commits
@@ -36,5 +37,4 @@ Waiting for PR
 - [SnapKit/SnapKit](https://github.com/SnapKit/SnapKit) 🌟 13,520 Stars, 2 commits
 - [madebybowtie/FlagKit](https://github.com/madebybowtie/FlagKit) 🌟 2,150 Stars, 2 commits
 - [codestergit/SweetAlert-iOS](https://github.com/codestergit/SweetAlert-iOS) 🌟 1,878 Stars, 2 commits
-- [RxSwiftCommunity/RxMediaPicker](https://github.com/RxSwiftCommunity/RxMediaPicker) 🌟 119 Stars, 2 commits
 - [mgp/effective-swift](https://github.com/mgp/effective-swift) 🌟 37 Stars, 1 commit
