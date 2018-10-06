@@ -26,7 +26,7 @@ My Open source project contributions
 - [RxSwiftCommunityRxMediaPicker](https://github.com/RxSwiftCommunity/RxMediaPicker) 🌟 120 Stars, 2 commits
 - [vbmania/RxValidator](https://github.com/vbmania/RxValidator) 🌟 118 Stars, 4 commits
 - [kawoou/Deli](https://github.com/kawoou/Deli) 🌟 94 Stars, 3 commits
-- [cruisediary/DeviceLayout](https://github.com/cruisediary/DeviceLayout) 🌟 88 Stars, 48 commits
+- [cruisediary/DeviceLayout](https://github.com/cruisediary/DeviceLayout) 🌟 92 Stars, 51 commits
 - [StyleShare/swift-style-guide](https://github.com/StyleShare/swift-style-guide) 🌟 77 Stars, 1 commit
 - [cruisediary/Instagram](https://github.com/cruisediary/Instagram) 🌟 18 Stars, 49 commits 
 - [cruisediary/CRTimePicker](https://github.com/cruisediary/CRTimePicker) 🌟 18 Stars, 9 commits
