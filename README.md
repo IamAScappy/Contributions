@@ -3,6 +3,7 @@
 
 My Open source project contributions
 
+- [vsouza/awesome-ios](https://github.com/vsouza/awesome-ios) ![Github stars](https://img.shields.io/github/stars/vsouza/awesome-ios.svg?style=social&label=Stars), 2 commits
 - [raywenderlich/swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club) ![Github stars](https://img.shields.io/github/stars/raywenderlich/swift-algorithm-club.svg?style=social&label=Stars), 1 commit
 - [matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift) ![Github stars](https://img.shields.io/github/stars/matteocrippa/awesome-swift.svg?style=social&label=Stars), 7 commits
 - [Cocoapods/Specs](https://github.com/CocoaPods/Specs) ![Github stars](https://img.shields.io/github/stars/CocoaPods/Specs.svg?style=social&label=Stars) 22 commits
