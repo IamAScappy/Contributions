@@ -19,7 +19,7 @@ My Open source project contributions
 - [RxSwiftCommunity/RxOptional](https://github.com/RxSwiftCommunity/RxOptional) ![Github stars](https://img.shields.io/github/stars/RxSwiftCommunity/RxOptional.svg?style=social&label=Stars) 1 commit
 - [RxSwiftCommunity/Action](https://github.com/RxSwiftCommunity/Action) ![Github stars](https://img.shields.io/github/stars/RxSwiftCommunity/Action.svg?style=social&label=Stars) 6 commits
 - [wxxsw/GSMessages](https://github.com/wxxsw/GSMessages) ![Github stars](https://img.shields.io/github/stars/wxxsw/GSMessages.svg?style=social&label=Stars) 3 commits 
-- [cruisediary/Gradients](https://github.com/cruisediary/Gradients) ![Github stars](https://img.shields.io/github/stars/cruisediary/Gradients.svg?style=social&label=Stars) 24 commits
+- [cruisediary/Gradients](https://github.com/cruisediary/Gradients) ![Github stars](https://img.shields.io/github/stars/cruisediary/Gradients.svg?style=social&label=Stars) 33 commits
 - [cruisediary/Passcode](https://github.com/cruisediary/Passcode) ![Github stars](https://img.shields.io/github/stars/cruisediary/Passcode.svg?style=social&label=Stars) 15 commits
 - [dingwilson/SwiftVideoBackground](https://github.com/dingwilson/SwiftVideoBackground) ![Github stars](https://img.shields.io/github/stars/dingwilson/SwiftVideoBackground.svg?style=social&label=Stars) 1 commit
 - [vadymmarkov/When](https://github.com/vadymmarkov/When) ![Github stars](https://img.shields.io/github/stars/vadymmarkov/When.svg?style=social&label=Stars) 2 commits
