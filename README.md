@@ -29,7 +29,7 @@ My Open source project contributions
 - [RxSwiftCommunity/RxMediaPicker](https://github.com/RxSwiftCommunity/RxMediaPicker) ![Github stars](https://img.shields.io/github/stars/RxSwiftCommunity/RxMediaPicker.svg?style=social&label=Stars) 6 commits
 - [vbmania/RxValidator](https://github.com/vbmania/RxValidator) ![Github stars](https://img.shields.io/github/stars/vbmania/RxValidator.svg?style=social&label=Stars) 4 commits
 - [kawoou/Deli](https://github.com/kawoou/Deli) ![Github stars](https://img.shields.io/github/stars/kawoou/Deli.svg?style=social&label=Stars) 3 commits
-- [cruisediary/DeviceLayout](https://github.com/cruisediary/DeviceLayout) ![Github stars](https://img.shields.io/github/stars/cruisediary/DeviceLayout.svg?style=social&label=Stars) 56 commits
+- [cruisediary/DeviceLayout](https://github.com/cruisediary/DeviceLayout) ![Github stars](https://img.shields.io/github/stars/cruisediary/DeviceLayout.svg?style=social&label=Stars) 57 commits
 - [StyleShare/swift-style-guide](https://github.com/StyleShare/swift-style-guide) ![Github stars](https://img.shields.io/github/stars/StyleShare/swift-style-guide.svg?style=social&label=Stars) 1 commit
 - [cruisediary/Instagram](https://github.com/cruisediary/Instagram) ![Github stars](https://img.shields.io/github/stars/cruisediary/Instagram.svg?style=social&label=Stars) 49 commits 
 - [cruisediary/CRTimePicker](https://github.com/cruisediary/CRTimePicker) ![Github stars](https://img.shields.io/github/stars/cruisediary/CRTimePicker.svg?style=social&label=Stars) 9 commits
