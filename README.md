@@ -10,6 +10,7 @@ My Open source project contributions
 - [Skyscanner/SkyFloatingLabelTextField](https://github.com/Skyscanner/SkyFloatingLabelTextField) ![Github stars](https://img.shields.io/github/stars/Skyscanner/SkyFloatingLabelTextField.svg?style=social&label=Stars) 1 commit
 - [cruisediary/Pastel](https://github.com/cruisediary/Pastel) ![Github stars](https://img.shields.io/github/stars/cruisediary/Pastel.svg?style=social&label=Stars) 79 commits
 - [optonaut/ActiveLabel](https://github.com/optonaut/ActiveLabel.swift) ![Github stars](https://img.shields.io/github/stars/optonaut/ActiveLabel.swift.svg?style=social&label=Stars) 1 commit
+- [MessageKit/MessageKit](https://github.com/MessageKit/MessageKit) ![Github stars](https://img.shields.io/github/stars/MessageKit/MessageKit.swift.svg?style=social&label=Stars) 1 commit
 - [demonnico/PinterestSwift](https://github.com/demonnico/PinterestSwift) ![Github stars](https://img.shields.io/github/stars/demonnico/PinterestSwift.svg?style=social&label=Stars) 2 commits
 - [sberrevoets/SDCAlertView](https://github.com/sberrevoets/SDCAlertView) ![Github stars](https://img.shields.io/github/stars/sberrevoets/SDCAlertView.svg?style=social&label=Stars) 1 commit
 - [younatics/MotionBook](https://github.com/younatics/MotionBook) ![Github stars](https://img.shields.io/github/stars/younatics/MotionBook.svg?style=social&label=Stars) 1 commit 
