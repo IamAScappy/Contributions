@@ -1,7 +1,9 @@
 
 ![logo](README/contributions.png)
 
-My Open source project contributions
+🏓 My Open source project contributions
+
+## 2016 - 2018 Contributions
 
 - [vsouza/awesome-ios](https://github.com/vsouza/awesome-ios) ![Github stars](https://img.shields.io/github/stars/vsouza/awesome-ios.svg?style=social&label=Stars), 2 commits
 - [raywenderlich/swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club) ![Github stars](https://img.shields.io/github/stars/raywenderlich/swift-algorithm-club.svg?style=social&label=Stars), 1 commit
@@ -46,3 +48,11 @@ Waiting for PR
 - [madebybowtie/FlagKit](https://github.com/madebybowtie/FlagKit) ![Github stars](https://img.shields.io/github/stars/madebybowtie/FlagKit.svg?style=social&label=Stars) 2 commits
 - [codestergit/SweetAlert-iOS](https://github.com/codestergit/SweetAlert-iOS) ![Github stars](https://img.shields.io/github/stars/codestergit/SweetAlert-iOS.svg?style=social&label=Stars) 2 commits
 - [mgp/effective-swift](https://github.com/mgp/effective-swift) ![Github stars](https://img.shields.io/github/stars/mgp/effective-swift.svg?style=social&label=Stars) 1 commit
+
+## Author
+
+cruz, cruzdiary@gmail.com
+
+## License
+
+Contributions is available under the MIT license. See the LICENSE file for more info.
