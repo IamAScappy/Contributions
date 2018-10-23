@@ -8,6 +8,7 @@
 - [vsouza/awesome-ios](https://github.com/vsouza/awesome-ios) ![Github stars](https://img.shields.io/github/stars/vsouza/awesome-ios.svg?style=social&label=Stars), 2 commits
 - [raywenderlich/swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club) ![Github stars](https://img.shields.io/github/stars/raywenderlich/swift-algorithm-club.svg?style=social&label=Stars), 1 commit
 - [matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift) ![Github stars](https://img.shields.io/github/stars/matteocrippa/awesome-swift.svg?style=social&label=Stars), 7 commits
+- [SwifterSwift/SwifterSwift](https://github.com/SwifterSwift/SwifterSwift) ![Github stars](https://img.shields.io/github/stars/SwifterSwift/SwifterSwift.svg?style=social&label=Stars), 1 commit
 - [ReSwift/ReSwift](https://github.com/ReSwift/ReSwift) ![Github stars](https://img.shields.io/github/stars/ReSwift/ReSwift.svg?style=social&label=Stars), 1 commit
 - [Cocoapods/Specs](https://github.com/CocoaPods/Specs) ![Github stars](https://img.shields.io/github/stars/CocoaPods/Specs.svg?style=social&label=Stars) 28 commits
 - [Skyscanner/SkyFloatingLabelTextField](https://github.com/Skyscanner/SkyFloatingLabelTextField) ![Github stars](https://img.shields.io/github/stars/Skyscanner/SkyFloatingLabelTextField.svg?style=social&label=Stars) 1 commit
